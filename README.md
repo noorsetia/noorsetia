@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="IMAGE_LINK_HERE" width="180" style="border-radius:50%" />
+  <img src="" width="180" style="border-radius:50%" />
 </p>
 
 ## 👨‍💻 About Me
@@ -30,40 +30,42 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noorsetia&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=noorsetia&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorsetia&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noorsetia&theme=tokyonight" />
 </p>
 
 ## 🚀 Featured Projects
 
 ### 🏋️ Gym Management System
 Full-stack MERN application with authentication & admin dashboard  
-[Repository Link](#)
+https://github.com/noorsetia/GYM_Backend(#)
+https://github.com/noorsetia/GYM_MERN_Frontend(#)
 
 ### 📅 Advanced Leave Management System
 AI-integrated leave approval system  
-https://github.com/noorsetia/LeaveManagementSystemBackend
+https://github.com/noorsetia/LeaveManagementSystembackend(#)
+https://github.com/noorsetia/LeaveManagementSystemfrontend(#)
 
 
 ### 📌 AI Project Management Tool
 Task tracking with intelligent assistance  
-[Repository Link](#)
+https://github.com/noorsetia/world_visual(#)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=noorsetia&style=for-the-badge"/>
 </p>
 
 
