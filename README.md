@@ -1,144 +1,69 @@
-Noor Setia
-Full-Stack Developer | MERN Stack | Engineering Student
+<h1 align="center">Hi, I'm Noor Setia 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Engineering Student</h3>
 
-Building scalable, production-focused web applications with strong backend logic and clean frontend architecture.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Focused+on+Backend+Architecture" />
+</p>
 
-Professional Summary
+<p align="center">
+  <img src="IMAGE_LINK_HERE" width="180" style="border-radius:50%" />
+</p>
 
-Engineering student with hands-on experience in designing and developing full-stack applications using the MERN stack.
+## 👨‍💻 About Me
 
-Strong focus on:
+- 🎓 Bachelor of Computer Applications(BCA) Student (2nd Year)
+- 🚀 Frontend/ MERN Stack Developer
+- 🔐 Strong focus on backend logic & authentication systems
+- 📈 Continuously improving system design skills
+- 🧠 Building real-world full-stack projects
 
-Scalable backend architecture
+## 🛠 Tech Stack
 
-Clean React component design
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+</p>
 
-Secure authentication systems
+## 📊 GitHub Analytics
 
-Real-world problem solving
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-I prioritize clarity in code, structured systems, and measurable impact over surface-level features.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-Technical Expertise
-Core Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-React.js
+## 📈 Contribution Graph
 
-Node.js
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-Express.js
+## 🚀 Featured Projects
 
-MongoDB
+### 🏋️ Gym Management System
+Full-stack MERN application with authentication & admin dashboard  
+[Repository Link](#)
 
-Programming
+### 📅 Advanced Leave Management System
+AI-integrated leave approval system  
+https://github.com/noorsetia/LeaveManagementSystemBackend
 
-JavaScript (ES6+)
 
-Python (Foundations)
+### 📌 AI Project Management Tool
+Task tracking with intelligent assistance  
+[Repository Link](#)
 
-Backend & Architecture
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+</p>
 
-RESTful API development
 
-JWT Authentication & Authorization
-
-Middleware design
-
-Database schema structuring
-
-Tools & Workflow
-
-Git & GitHub
-
-Postman
-
-Agile collaboration
-
-Selected Projects
-Gym Management System (MERN)
-
-A full-stack system built to manage gym members, subscriptions, and administrative workflows.
-
-Key Highlights:
-
-Secure user authentication
-
-Admin dashboard with structured data control
-
-Subscription lifecycle management
-
-Clean modular backend architecture
-
-Tech Stack: React | Node.js | Express | MongoDB
-
-Advanced Leave Management System
-
-Designed to improve academic leave handling through structured evaluation.
-
-Key Highlights:
-
-Smart leave request processing
-
-Quiz-based academic continuity validation
-
-Backend-driven evaluation logic
-
-API integration and structured data flow
-
-Tech Stack: MERN + External API Integration
-
-AI-Powered Project Management Tool
-
-Simplified Jira/Trello-style system enhanced with intelligent task structuring.
-
-Key Highlights:
-
-Task creation & workflow tracking
-
-Logical project organization
-
-AI-assisted task generation
-
-Scalable backend endpoints
-
-Tech Stack: React | Node.js | Express | MongoDB
-
-Leadership & Experience
-
-Hackathon & Innovation In-Charge – Eternal Campus
-
-Managed technical teams and deadlines
-
-Assisted peers in debugging and system troubleshooting
-
-React Bootcamp participant with practical implementation experience
-
-What Sets Me Apart
-
-I build complete systems — not just UI pages
-
-I understand authentication and backend logic deeply
-
-I focus on writing maintainable, scalable code
-
-I am continuously improving my architecture-level thinking
-
-Current Focus
-
-Backend optimization
-
-System design fundamentals
-
-Writing production-ready APIs
-
-Advanced React patterns
-
-Career Direction
-
-Focused on becoming a strong full-stack engineer capable of designing and delivering secure, scalable, and high-impact applications.
-
-Contact
-
-LinkedIn: https://www.linkedin.com/in/noorsetia/
-Portfolio: [Add Link]
-Email: noorsetia24@navgurukul.org
