@@ -1,3 +1,19 @@
+<h1 align="center" style="font-family: cursive;">
+  Hello! I'm Noor 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF4D6D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
+</p>
 <h1 align="center">Hi, I'm Noor Setia 👋</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Engineering Student</h3>
 
