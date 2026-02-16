@@ -1,6 +1,6 @@
-<h1 align="center" style="font-family: cursive;">
-  Hello! I'm Noor 👋
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noorsetia/noorsetia/main/banner.png" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF4D6D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Systems" />
