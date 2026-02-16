@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noorsetia/noorsetia/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/noorsetia/noorsetia/main/GithubBanner.png" />
 </p>
 
 <p align="center">
