@@ -14,8 +14,6 @@
     <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
   </a>
 </p>
-<h1 align="center">Hi, I'm Noor Setia 👋</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Focused+on+Backend+Architecture" />
