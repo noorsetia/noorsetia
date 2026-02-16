@@ -15,13 +15,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Focused+on+Backend+Architecture" />
-</p>
 
-<p align="center">
-  <img src="" width="180" style="border-radius:50%" />
-</p>
 
 ## 👨‍💻 About Me
 
