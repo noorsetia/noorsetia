@@ -26,50 +26,59 @@
 - 🧠 Building real-world full-stack projects
 
 ## 🛠 Tech Stack
-🚀 Frontend
 
+### 🚀 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-⚙️ Backend & APIs
+---
 
+### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-444444?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
-🗄 Database
+---
 
+### 🗄 Database
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-🤖 AI & Advanced Integration
+---
 
+### 🤖 AI & Design Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=lightbulb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-☁️ Deployment & DevOps
+---
 
+
+### ☁️ Deployment
 <p align="center">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-🔧 Tools & Version Control
+---
 
+### 🔧 Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
@@ -77,10 +86,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noorsetia&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorsetia&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=noorsetia&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=noorsetia&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ## 📈 Contribution Graph
@@ -91,53 +100,71 @@
 
 ## 🚀 Featured Projects
 
-### 📊 Project Management System (Jira/Trello Inspired)
+---
 
-A full-stack project management platform built to support real-time collaboration, sprint planning, and AI-assisted productivity. Designed with modular backend architecture and an interactive React-based frontend.
+### 📊 Project Management System  
+*Jira/Trello Inspired – Full Stack*
 
-Key Features:
-🔐 JWT authentication with role-based access control
-📁 Project & task management (CRUD, status tracking, priorities)
-🎯 Drag-and-drop workflow (To Do → In Progress → Review → Done)
-🚀 Sprint planning & progress tracking
-⚡ Real-time updates using Socket.IO
-🤖 AI-powered task generation, prioritization & progress insights
-📊 Analytics dashboard with performance metrics
-Tech Stack:
-React | Node.js | Express.js | MongoDB | JWT | bcrypt | Socket.IO | OpenAI API
-🔗 Backend: (Add backend repo link)
-🔗 Frontend: (Add frontend repo link)
+A real-time collaboration platform with sprint planning and AI-assisted productivity.
 
-### 📅 Advanced Leave Management System
+**Tech:** React • Node.js • Express • MongoDB • Socket.IO • OpenAI  
 
-An intelligent academic leave management platform built to automate request evaluation and maintain academic continuity.
+<details>
+<summary><strong>View Key Highlights</strong></summary>
 
-Key Features:
-📝 Structured leave request submission workflow
-🤖 AI-assisted evaluation logic for decision support
-📊 Administrative dashboard for request tracking
-🔐 Role-based access control (Admin / Student)
-⚙️ API-driven backend with organized data flow
-Tech Stack: React | Node.js | Express | MongoDB | AI Integration
-🔗 Backend: https://github.com/noorsetia/LeaveManagementSystembackend
-🔗 Frontend: https://github.com/noorsetia/LeaveManagementSystemfrontend
+- JWT authentication with RBAC  
+- Task workflow (To Do → Done)  
+- Drag-and-drop board  
+- Sprint planning & analytics  
+- Real-time updates  
+- AI task generation & prioritization  
 
+🔗 Backend: https://github.com/noorsetia/JiraProj_Backend   
+🔗 Frontend: https://github.com/noorsetia/JiraProj_Frontend
+</details>
 
-### 🏥 CareSync – Patient Portal (React)
+---
 
-A modern, accessibility-focused patient portal built with advanced React architecture and real-world healthcare workflow simulation.
+### 📅 Advanced Leave Management System  
+*AI-Integrated Academic Platform*
 
-Key Features:
-🔐 Secure authentication with session persistence
-🔄 Protected routes & structured navigation (React Router v7)
-⚡ Server-state management using TanStack React Query
-🧠 Context API for centralized auth state
-♿ Accessibility-first UI (ARIA, semantic HTML, keyboard support)
-🧪 Mock API with simulated network handling
-Tech Stack:
-React 19 | Vite | React Router v7 | TanStack React Query v5 | Context API
-🔗 Repository: https://github.com/noorsetia/CareSync
+Automated leave evaluation system with structured workflows and role-based control.
 
+**Tech:** React • Node.js • Express • MongoDB • AI Integration  
+
+<details>
+<summary><strong>View Key Highlights</strong></summary>
+
+- Structured request submission  
+- AI-assisted decision logic  
+- Admin dashboard  
+- Role-based access control  
+
+🔗 Backend: https://github.com/noorsetia/LeaveManagementSystembackend  
+🔗 Frontend: https://github.com/noorsetia/LeaveManagementSystemfrontend  
+
+</details>
+
+---
+
+### 🏥 CareSync – Patient Portal  
+*Modern React Architecture*
+
+Accessibility-first healthcare portal built with advanced state management.
+
+**Tech:** React 19 • Vite • React Router v7 • TanStack Query  
+
+<details>
+<summary><strong>View Key Highlights</strong></summary>
+
+- Secure auth with session persistence  
+- Protected routes  
+- Server-state caching  
+- ARIA & semantic UI  
+
+🔗 Repository: https://github.com/noorsetia/CareSync  
+
+</details>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noorsetia&style=for-the-badge"/>
