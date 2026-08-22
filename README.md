@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/noorsetia">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
-  <a href="mailto:noorsetia24@navgurukul.org">
+  <a href="mailto:noorsetia27@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
   </a>
 </p>
