@@ -165,14 +165,14 @@ Explore the terminal-inspired experience on my [portfolio](https://noor-setia-po
     <td align="center" width="50%">
       <h3>🐍 Snake</h3>
       <p>Collect, grow, and beat your high score.</p>
-      <a href="https://noor-setia-portfolio.vercel.app/">
+      <a href="https://arcade-game-t5d8.vercel.app/#snake">
         <img src="https://img.shields.io/badge/PLAY_SNAKE-22C55E?style=for-the-badge&logoColor=white" alt="Find games on my portfolio" />
       </a>
     </td>
     <td align="center" width="50%">
       <h3>🚀 Space Shooter</h3>
       <p>Dodge asteroids and survive the waves.</p>
-      <a href="https://noor-setia-portfolio.vercel.app/">
+      <a href="https://arcade-game-t5d8.vercel.app/#space-shooter">
         <img src="https://img.shields.io/badge/SPACE_SHOOTER-3B82F6?style=for-the-badge" alt="Find games on my portfolio" />
       </a>
     </td>
@@ -181,14 +181,14 @@ Explore the terminal-inspired experience on my [portfolio](https://noor-setia-po
     <td align="center" width="50%">
       <h3>🧠 Code Quiz</h3>
       <p>Test your programming knowledge.</p>
-      <a href="https://noor-setia-portfolio.vercel.app/">
+      <a href="https://arcade-game-t5d8.vercel.app/#code-quiz">
         <img src="https://img.shields.io/badge/CODE_QUIZ-A855F7?style=for-the-badge" alt="Find games on my portfolio" />
       </a>
     </td>
     <td align="center" width="50%">
       <h3>🎯 Memory Match</h3>
       <p>Find matching pairs and challenge yourself.</p>
-      <a href="https://noor-setia-portfolio.vercel.app/">
+      <a href="https://arcade-game-t5d8.vercel.app/#memory">
         <img src="https://img.shields.io/badge/MEMORY_MATCH-F59E0B?style=for-the-badge" alt="Find games on my portfolio" />
       </a>
     </td>
